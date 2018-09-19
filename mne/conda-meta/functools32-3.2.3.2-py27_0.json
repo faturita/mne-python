@@ -1,0 +1,39 @@
+{
+  "arch": "x86_64", 
+  "auth": null, 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "channel": "https://repo.continuum.io/pkgs/free/osx-64", 
+  "date": "2015-12-15", 
+  "depends": [
+    "python 2.7.*"
+  ], 
+  "files": [
+    "lib/python2.7/site-packages/functools32-3.2.3_2-py2.7.egg-info", 
+    "lib/python2.7/site-packages/functools32/__init__.py", 
+    "lib/python2.7/site-packages/functools32/__init__.pyc", 
+    "lib/python2.7/site-packages/functools32/_dummy_thread32.py", 
+    "lib/python2.7/site-packages/functools32/_dummy_thread32.pyc", 
+    "lib/python2.7/site-packages/functools32/functools32.py", 
+    "lib/python2.7/site-packages/functools32/functools32.pyc", 
+    "lib/python2.7/site-packages/functools32/reprlib32.py", 
+    "lib/python2.7/site-packages/functools32/reprlib32.pyc"
+  ], 
+  "fn": "functools32-3.2.3.2-py27_0.tar.bz2", 
+  "license": "PSF", 
+  "link": {
+    "source": "/Users/rramele/anaconda2/pkgs/functools32-3.2.3.2-py27_0", 
+    "type": 1
+  }, 
+  "md5": "748f0e2008f9867c1b771321a9e76ab5", 
+  "name": "functools32", 
+  "platform": "darwin", 
+  "preferred_env": null, 
+  "priority": 0, 
+  "schannel": "defaults", 
+  "size": 15362, 
+  "subdir": "osx-64", 
+  "url": "https://repo.continuum.io/pkgs/free/osx-64/functools32-3.2.3.2-py27_0.tar.bz2", 
+  "version": "3.2.3.2", 
+  "with_features_depends": {}
+}

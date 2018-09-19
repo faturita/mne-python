@@ -1,0 +1,13 @@
+prefix=/Users/rramele/work/mne-python/mne
+exec_prefix=${prefix}
+libdir=${prefix}/lib
+includedir=${prefix}/include/qt
+
+
+Name: Qt5 WebView
+Description: Qt WebView module
+Version: 5.6.2
+Libs: -L${libdir} -lQt5WebView 
+Libs.private: -L/Users/rramele/work/mne-python/mne/lib -lQt5Quick -L/Users/rramele/work/mne-python/mne/lib -framework DiskArbitration -framework IOKit -L/Users/rramele/work/mne-python/mne/lib -lQt5Gui -lQt5Qml -lQt5Network -lQt5Core -L/Users/rramele/work/mne-python/mne/lib -lQt5WebEngine -L/Users/rramele/work/mne-python/mne/lib -L/Users/rramele/work/mne-python/mne/lib -framework DiskArbitration -framework IOKit -L/Users/rramele/work/mne-python/mne/lib -L/Users/rramele/work/mne-python/mne/lib -lQt5WebEngineCore -lQt5Quick -lQt5Gui -lQt5WebChannel -lQt5Qml -lQt5Network -lQt5Core -framework OpenGL -framework AGL  
+Cflags: -I${includedir}/QtWebView -I${includedir}
+

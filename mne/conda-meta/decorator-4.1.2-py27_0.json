@@ -1,0 +1,37 @@
+{
+  "arch": "x86_64", 
+  "auth": null, 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "channel": "https://repo.continuum.io/pkgs/free/osx-64", 
+  "date": "2017-07-28", 
+  "depends": [
+    "python 2.7*"
+  ], 
+  "files": [
+    "lib/python2.7/site-packages/decorator-4.1.2-py2.7.egg-info/PKG-INFO", 
+    "lib/python2.7/site-packages/decorator-4.1.2-py2.7.egg-info/SOURCES.txt", 
+    "lib/python2.7/site-packages/decorator-4.1.2-py2.7.egg-info/dependency_links.txt", 
+    "lib/python2.7/site-packages/decorator-4.1.2-py2.7.egg-info/not-zip-safe", 
+    "lib/python2.7/site-packages/decorator-4.1.2-py2.7.egg-info/top_level.txt", 
+    "lib/python2.7/site-packages/decorator.py", 
+    "lib/python2.7/site-packages/decorator.pyc"
+  ], 
+  "fn": "decorator-4.1.2-py27_0.tar.bz2", 
+  "license": "BSD", 
+  "link": {
+    "source": "/Users/rramele/anaconda2/pkgs/decorator-4.1.2-py27_0", 
+    "type": 1
+  }, 
+  "md5": "414e20f5ca09182c8607ad2403071076", 
+  "name": "decorator", 
+  "platform": "darwin", 
+  "preferred_env": null, 
+  "priority": 0, 
+  "schannel": "defaults", 
+  "size": 14476, 
+  "subdir": "osx-64", 
+  "url": "https://repo.continuum.io/pkgs/free/osx-64/decorator-4.1.2-py27_0.tar.bz2", 
+  "version": "4.1.2", 
+  "with_features_depends": {}
+}

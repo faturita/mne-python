@@ -1,0 +1,39 @@
+{
+  "arch": "x86_64", 
+  "auth": null, 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "channel": "https://repo.continuum.io/pkgs/free/osx-64", 
+  "date": "2016-09-16", 
+  "depends": [
+    "path.py", 
+    "pathlib2", 
+    "python 2.7*"
+  ], 
+  "files": [
+    "lib/python2.7/site-packages/pickleshare-0.7.4-py2.7.egg-info/PKG-INFO", 
+    "lib/python2.7/site-packages/pickleshare-0.7.4-py2.7.egg-info/SOURCES.txt", 
+    "lib/python2.7/site-packages/pickleshare-0.7.4-py2.7.egg-info/dependency_links.txt", 
+    "lib/python2.7/site-packages/pickleshare-0.7.4-py2.7.egg-info/requires.txt", 
+    "lib/python2.7/site-packages/pickleshare-0.7.4-py2.7.egg-info/top_level.txt", 
+    "lib/python2.7/site-packages/pickleshare.py", 
+    "lib/python2.7/site-packages/pickleshare.pyc"
+  ], 
+  "fn": "pickleshare-0.7.4-py27_0.tar.bz2", 
+  "license": "MIT", 
+  "link": {
+    "source": "/Users/rramele/anaconda2/pkgs/pickleshare-0.7.4-py27_0", 
+    "type": 1
+  }, 
+  "md5": "ca8660efc5c44d3ed82225cd4030d562", 
+  "name": "pickleshare", 
+  "platform": "darwin", 
+  "preferred_env": null, 
+  "priority": 0, 
+  "schannel": "defaults", 
+  "size": 8677, 
+  "subdir": "osx-64", 
+  "url": "https://repo.continuum.io/pkgs/free/osx-64/pickleshare-0.7.4-py27_0.tar.bz2", 
+  "version": "0.7.4", 
+  "with_features_depends": {}
+}

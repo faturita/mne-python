@@ -1,0 +1,37 @@
+{
+  "arch": "x86_64", 
+  "auth": null, 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "channel": "https://repo.continuum.io/pkgs/free/osx-64", 
+  "date": "2015-09-22", 
+  "depends": [
+    "python 2.7*"
+  ], 
+  "files": [
+    "lib/python2.7/site-packages/appnope-0.1.0-py2.7.egg-info", 
+    "lib/python2.7/site-packages/appnope/__init__.py", 
+    "lib/python2.7/site-packages/appnope/__init__.pyc", 
+    "lib/python2.7/site-packages/appnope/_dummy.py", 
+    "lib/python2.7/site-packages/appnope/_dummy.pyc", 
+    "lib/python2.7/site-packages/appnope/_nope.py", 
+    "lib/python2.7/site-packages/appnope/_nope.pyc"
+  ], 
+  "fn": "appnope-0.1.0-py27_0.tar.bz2", 
+  "license": "BSD", 
+  "link": {
+    "source": "/Users/rramele/anaconda2/pkgs/appnope-0.1.0-py27_0", 
+    "type": 1
+  }, 
+  "md5": "1779b437f4e168c687106e13215f3bc9", 
+  "name": "appnope", 
+  "platform": "darwin", 
+  "preferred_env": null, 
+  "priority": 0, 
+  "schannel": "defaults", 
+  "size": 3877, 
+  "subdir": "osx-64", 
+  "url": "https://repo.continuum.io/pkgs/free/osx-64/appnope-0.1.0-py27_0.tar.bz2", 
+  "version": "0.1.0", 
+  "with_features_depends": {}
+}

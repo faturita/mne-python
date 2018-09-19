@@ -1,0 +1,40 @@
+{
+  "arch": "x86_64", 
+  "auth": null, 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "channel": "https://repo.continuum.io/pkgs/free/osx-64", 
+  "date": "2017-07-31", 
+  "depends": [
+    "python 2.7*"
+  ], 
+  "files": [
+    "lib/python2.7/site-packages/ptyprocess-0.5.2-py2.7.egg-info", 
+    "lib/python2.7/site-packages/ptyprocess/__init__.py", 
+    "lib/python2.7/site-packages/ptyprocess/__init__.pyc", 
+    "lib/python2.7/site-packages/ptyprocess/_fork_pty.py", 
+    "lib/python2.7/site-packages/ptyprocess/_fork_pty.pyc", 
+    "lib/python2.7/site-packages/ptyprocess/ptyprocess.py", 
+    "lib/python2.7/site-packages/ptyprocess/ptyprocess.pyc", 
+    "lib/python2.7/site-packages/ptyprocess/util.py", 
+    "lib/python2.7/site-packages/ptyprocess/util.pyc"
+  ], 
+  "fn": "ptyprocess-0.5.2-py27_0.tar.bz2", 
+  "license": "ISC", 
+  "license_family": "Other", 
+  "link": {
+    "source": "/Users/rramele/anaconda2/pkgs/ptyprocess-0.5.2-py27_0", 
+    "type": 1
+  }, 
+  "md5": "a44a1d02ac548ade1637ed464e5c4da8", 
+  "name": "ptyprocess", 
+  "platform": "darwin", 
+  "preferred_env": null, 
+  "priority": 0, 
+  "schannel": "defaults", 
+  "size": 21822, 
+  "subdir": "osx-64", 
+  "url": "https://repo.continuum.io/pkgs/free/osx-64/ptyprocess-0.5.2-py27_0.tar.bz2", 
+  "version": "0.5.2", 
+  "with_features_depends": {}
+}

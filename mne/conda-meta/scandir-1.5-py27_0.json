@@ -1,0 +1,35 @@
+{
+  "arch": "x86_64", 
+  "auth": null, 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "channel": "https://repo.continuum.io/pkgs/free/osx-64", 
+  "date": "2017-02-23", 
+  "depends": [
+    "python 2.7*"
+  ], 
+  "files": [
+    "lib/python2.7/site-packages/_scandir.so", 
+    "lib/python2.7/site-packages/scandir-1.5-py2.7.egg-info", 
+    "lib/python2.7/site-packages/scandir.py", 
+    "lib/python2.7/site-packages/scandir.pyc"
+  ], 
+  "fn": "scandir-1.5-py27_0.tar.bz2", 
+  "license": "BSD License", 
+  "license_family": "BSD", 
+  "link": {
+    "source": "/Users/rramele/anaconda2/pkgs/scandir-1.5-py27_0", 
+    "type": 1
+  }, 
+  "md5": "dd4fda0c4bfc089b60253d6dbb606ba2", 
+  "name": "scandir", 
+  "platform": "darwin", 
+  "preferred_env": null, 
+  "priority": 0, 
+  "schannel": "defaults", 
+  "size": 25069, 
+  "subdir": "osx-64", 
+  "url": "https://repo.continuum.io/pkgs/free/osx-64/scandir-1.5-py27_0.tar.bz2", 
+  "version": "1.5", 
+  "with_features_depends": {}
+}

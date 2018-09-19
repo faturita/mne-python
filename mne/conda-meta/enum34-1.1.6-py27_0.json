@@ -1,0 +1,42 @@
+{
+  "arch": "x86_64", 
+  "auth": null, 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "channel": "https://repo.continuum.io/pkgs/free/osx-64", 
+  "date": "2016-05-16", 
+  "depends": [
+    "python 2.7*"
+  ], 
+  "files": [
+    "lib/python2.7/site-packages/enum/LICENSE", 
+    "lib/python2.7/site-packages/enum/README", 
+    "lib/python2.7/site-packages/enum/__init__.py", 
+    "lib/python2.7/site-packages/enum/__init__.pyc", 
+    "lib/python2.7/site-packages/enum/doc/enum.pdf", 
+    "lib/python2.7/site-packages/enum/doc/enum.rst", 
+    "lib/python2.7/site-packages/enum/test.py", 
+    "lib/python2.7/site-packages/enum/test.pyc", 
+    "lib/python2.7/site-packages/enum34-1.1.6-py2.7.egg-info/PKG-INFO", 
+    "lib/python2.7/site-packages/enum34-1.1.6-py2.7.egg-info/SOURCES.txt", 
+    "lib/python2.7/site-packages/enum34-1.1.6-py2.7.egg-info/dependency_links.txt", 
+    "lib/python2.7/site-packages/enum34-1.1.6-py2.7.egg-info/top_level.txt"
+  ], 
+  "fn": "enum34-1.1.6-py27_0.tar.bz2", 
+  "license": "BSD", 
+  "link": {
+    "source": "/Users/rramele/anaconda2/pkgs/enum34-1.1.6-py27_0", 
+    "type": 1
+  }, 
+  "md5": "1a04ba0c440ed5b1c7663d475c27077b", 
+  "name": "enum34", 
+  "platform": "darwin", 
+  "preferred_env": null, 
+  "priority": 0, 
+  "schannel": "defaults", 
+  "size": 54786, 
+  "subdir": "osx-64", 
+  "url": "https://repo.continuum.io/pkgs/free/osx-64/enum34-1.1.6-py27_0.tar.bz2", 
+  "version": "1.1.6", 
+  "with_features_depends": {}
+}

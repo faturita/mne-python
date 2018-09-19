@@ -1,0 +1,14 @@
+prefix=/Users/rramele/work/mne-python/mne
+exec_prefix=/Users/rramele/work/mne-python/mne
+libdir=/Users/rramele/work/mne-python/mne/lib
+includedir=/Users/rramele/work/mne-python/mne/include/freetype2
+
+Name: FreeType 2
+URL: http://freetype.org
+Description: A free, high-quality, and portable font engine.
+Version: 17.4.11
+Requires:
+Requires.private: 
+Libs: -L${libdir} -lfreetype
+Libs.private: 
+Cflags: -I${includedir}
